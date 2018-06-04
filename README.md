@@ -1,4 +1,4 @@
-# LoginRadius AngularJS Demo 
+# LoginRadius Angular 6 Demo 
 
 ![Home Image](http://docs.lrcontent.com/resources/github/banner-1544x500.png)
 
