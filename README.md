@@ -19,7 +19,7 @@ Please visit [here](http://www.loginradius.com/) for more information.
 
 ## Documentation
 
-* [Configuration](http://apidocs.loginradius.com/docs/api/v2/use-cases-demo/angular-6-demo) - This document contains all of the details on how to configure this demo. 
+* [Configuration](https://docs.loginradius.com/api/v2/use-cases-demo/angular-6-demo) - This document contains all of the details on how to configure this demo. 
 * [Customer Registration](http://apidocs.loginradius.com/docs/user-registration) - For everything you need to implement the full LoginRadius Customer Registration system.
 
 
